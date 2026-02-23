@@ -1,14 +1,12 @@
-# Data Science Portfolio
+Hi, I’m Fazliddin.
+Junior Data Scientist focused on building end-to-end machine learning solutions and deploying them into real-world applications.
 
-Hi, I'm Fazliddin  
-Data Science intern
-
-## Skills
-- Python (pandas, NumPy)
-- Machine Learning (scikit-learn)
-- Data analysis
-- Power BI
-- SQL (basic)
-
-## Projects
-This repository will contain my data science and machine learning projects.
+Skills
+	•	Python (Pandas, NumPy, Scikit-learn)
+	•	Machine Learning (Regression, Random Forest, Cross-Validation)
+	•	Data Analysis & EDA
+	•	SQL
+	•	Power BI
+	•	Model evaluation (MAE, RMSE)
+	•	Feature Engineering
+	•	Scikit-learn Pipelines
